@@ -1,0 +1,43 @@
+﻿
+/*产品分类*/
+.pro_fl{ display:table;}
+.profl_li{ float:left; margin-left:4px; margin-right: 4px;}
+.profl_li > a > div{ width:286px; height: 250px; overflow: hidden;}
+.profl_li > a > div > img{width:286px; height: 250px; transition: 1s;}
+.profl_li > a > p{ line-height:50px; font-size:16px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; text-align: center;}
+.profl_li:hover a > p{ color:#fb4848}
+.profl_li:hover > a > div > img{ transform:scale3d(1.1,1.1,1);}
+.xxk_active{background:#323136 !important; color:#e60214 !important;}
+.proshow_xxk{ width: 140px; height: 60px; background: #fff; display: block;float: left;text-align: center; line-height: 60px; font-size: 18px; border: 1px solid #323136;margin-left: -1px; color: #000; transition: 0.3s;}
+.proshow_xxk:hover{ background:#323136; color:#fc4a4a;}
+.cpjs_title{ width:100%; height: 40px; line-height: 40px; padding-left: 20px; color: #fff; background: #d7d7d7; color:#000; font-weight: bold; font-size: 16px; border-left: 2px solid #fc4a4a; margin-bottom: 30px; margin-top: 30px;border-bottom: 2px solid #a0a0a0}
+.cpjs_title > p{ font-size:16px; float: left; margin-right: 4px;}
+.cpjs_title > span{ color:#a0a0a0;}
+.zxbj {
+    width: 290px;
+    height: 50px;
+    background: #fb5858;
+    display: block;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 21px;
+    line-height: 50px;
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+
+@media screen and (max-width: 1024px) {
+    .w1200{width: 100%;padding: 0 15px;box-sizing: border-box}
+    .mes_form_r{float: none;width: 100%}
+    .mes_form_l{float: none;width: 100%}
+    .mes_form_tj{width: 45%}
+    .mes_form_cz{width: 45%;margin-left: 10%}
+    .mes_form_l > p > input,.mes_form_r > textarea,
+    .mes_form_r > p > input{width: 100%;box-sizing: border-box;}
+    .ny_ly > h3{text-align: center}
+    .ny_ly > p{text-align: center}
+    .mes_form{display: block}
+
+}
