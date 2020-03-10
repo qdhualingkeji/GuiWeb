@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gbk2312" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-<title>江苏吉泰电力器材有限公司</title>
+<title>青岛华凌科技有限公司</title>
 <meta name="keywords" content="" />
 <meta name="description" content="青岛华凌科技有限公司位于青岛西海岸经济新区。是一家集产品研发、设计、配套销售于一体的高科技公司，公司设计的产品以维护方便、操作简单、结构合理为著称，适合现代化电力建设要求。 公司拥有一支经验丰富而又朝气蓬勃的专业团队，主要设计研发GGD型开关柜、MNS抽屉柜、户内外配电箱、不锈钢配电箱、动力箱、各种非标柜及箱体的安装和调试，产品销往全国各地，具有很高的性价比，深受广大用户的依赖和好评。
 华凌人以服务塑造形象，用诚信铸就品牌，我们将以优惠的价格、丰富的工程经验和强大的技术支持为用户提供全集成一揽子自动化系统解决方案，从设计开发到安装调试，从售前咨询到售后技术服务全方位为客户创造价值。
@@ -52,32 +52,38 @@
 	</div>
 </div>
 	
-<div class="header container">
+<div class="header container1">
     <div class="logo"> <a href="/"><img src="templates/jtdl/images/logon.png"  alt=""/></a></div>
     
     <div class="top">
 		<div class="top-middle">
 			<ul id="nav" class="nav clearfix">
 				<li class="nLi active ">
-					<h3><a href="#"><p>网站首页</p></a></h3>
+					<h3><a href="index.html"><p>网站首页</p></a></h3>
 				</li>
-				<li class="nLi ">
-					<h3><a href="products_show.html?id=218"><p>GGD低压柜</p></a></h3>
-				</li>
-				<li class="nLi  ">
-					<h3><a href="products_show.html?id=217" ><p>MNS低压抽屉柜 </p></a></h3>
+				<li class="nLi">
+					<h3><a href="products_show.html?id=218"><p>GGD柜</p></a></h3>
 				</li>
 				<li class="nLi  ">
-					<h3><a href="products_show.html?id=216" ><p>GCS低压开关</p></a></h3>
+					<h3><a href="products_show.html?id=217" ><p>MNS抽屉柜 </p></a></h3>
 				</li>
 				<li class="nLi  ">
-					<h3><a href="products_show.html?id=215" ><p>GCK低压设备 </p></a></h3> 
+					<h3><a href="products_show.html?id=216" ><p>GCS开关柜</p></a></h3>
+				</li>
+				<li class="nLi  ">
+					<h3><a href="products_show.html?id=215" ><p>GCK低压柜 </p></a></h3> 
 				</li>
 				 <li class="nLi  ">
 					<h3><a href="products_show.html?id=214" ><p>XL-21柜</p></a></h3>
 				</li>
 				 <li class="nLi  ">
-					<h3><a href="products_show.html?id=213" ><p>GGD低压柜</p></a></h3>
+					<h3><a href="products_show.html?id=213" ><p>防爆柜</p></a></h3>
+				</li>
+				 <li class="nLi  ">
+					<h3><a href="products_show.html?id=210"><p>XGN15-12高压柜</p></a></h3>
+				</li>
+				 <li class="nLi  ">
+					<h3><a href="products_show.html?id=234" ><p>三箱类</p></a></h3>
 				</li>
 			</ul>
 
@@ -146,7 +152,6 @@
 						<p>
 青岛华凌科技有限公司是一家集工控行业软硬件产品研发，DCS、PLC控制系统设计集成，电气设备生产销售为一体的高科技公司。青岛华凌科技有限公司致力于打造智能化生产车间，我公司研发的IMES生产管理软件为智能生产管理系统的核心组成部分，为实现生产智能化奠定有力的基础。
 						</p>
-						<a href="/about.aspx?page=about">查看更多+</a>
 					</div>
 				</div>
 
@@ -168,122 +173,7 @@
      		<div class="index_pro_show">
      			
      			<div class="slideTxtBox">
-					<div class="hd">
-						<ul>
-                             <!--
-							 <li><a href="/products.aspx?category_id=57">箱式变电站</a></li>
-                                   
-							 <li><a href="/products.aspx?category_id=56">高压开关设备</a></li>
-							 -->
-							 <li><a href="/products.aspx?category_id=54">低压开关设备</a></li>
-							 <!--      
-							 <li><a href="/products.aspx?category_id=77">三箱类</a></li>
-							 -->
-                                   
-						</ul>
-					</div>
 					<div class="bd">
-					 	<!--
-						<ul>
-                         
-							<li>
-								<a href="products_show.html?id=260">
-									<div class="pro_li">
-										<img src="upload/201712/18/201712181503197685.jpg"/>
-									</div>
-									<p class="">箱式变电站<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=259">
-									<div class="pro_li">
-										<img src="upload/201712/18/201712181503123481.jpg"/>
-									</div>
-									<p class="">箱式变电站<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=258">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181503052086.jpg"/>
-									</div>
-									<p class="">箱式变电站<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=257">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181502577472.jpg"/>
-									</div>
-									<p class="">箱式变电站<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=256">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181502497218.jpg"/>
-									</div>
-									<p class="">箱式变电站<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=226">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181345234050.jpg"/>
-									</div>
-									<p class="">箱式变电站<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-						
-						</ul>
-                            
-						<ul>
-                         
-							<li>
-								<a href="products_show.html?id=212">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181133581060.jpg"/>
-									</div>
-									<p class="">XGN15-12进出线柜<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=211">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181125596256.jpg"/>
-									</div>
-									<p class="">KYN61A-40.5型<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=210">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181120461537.jpg"/>
-									</div>
-									<p class="">XGN15-12高压柜<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=209">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181114310732.jpg"/>
-									</div>
-									<p class="">KYN28A-12高压柜<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-						
-						</ul>
-						-->
                             
 						<ul>
                          
@@ -292,7 +182,7 @@
 									<div class="pro_li">
 										<img src="upload/201712/18/201712181340235509.jpg"/>
 									</div>
-									<p class="">GGD低压柜<i class="iconfont icon-news-left"></i></p>
+									<p class="">GGD柜<i class="iconfont icon-news-left"></i></p>
 								</a>
 							</li>
                                
@@ -301,7 +191,7 @@
 									<div class="pro_li">
 										<img src="upload/201712/18/201712181332493489.jpg"/>
 									</div>
-									<p class="">MNS低压抽屉柜<i class="iconfont icon-news-left"></i></p>
+									<p class="">MNS抽屉柜<i class="iconfont icon-news-left"></i></p>
 								</a>
 							</li>
                                
@@ -310,7 +200,7 @@
 									<div class="pro_li">
 										<img src="upload/201712/18/201712181320565021.jpg"/>
 									</div>
-									<p class="">GCS低压开关<i class="iconfont icon-news-left"></i></p>
+									<p class="">GCS开关柜<i class="iconfont icon-news-left"></i></p>
 								</a>
 							</li>
                                
@@ -319,7 +209,7 @@
 									<div class="pro_li">
 										<img src="upload/201712/18/201712181258267509.jpg"/>
 									</div>
-									<p class="">GCK低压设备<i class="iconfont icon-news-left"></i></p>
+									<p class="">GCK低压柜<i class="iconfont icon-news-left"></i></p>
 								</a>
 							</li>
                                
@@ -341,61 +231,19 @@
 								</a>
 							</li>
                                
-						
-						</ul>
-                            
-						<!--
-						<ul>
-                         
+							<li>
+								<a href="products_show.html?id=210">
+									<div class="pro_li">
+										<img src="upload/201712/18/201712181120461537.jpg"/>
+									</div>
+									<p class="">XGN15-12高压柜<i class="iconfont icon-news-left"></i></p>
+								</a>
+							</li>
+                               
 							<li>
 								<a href="products_show.html?id=234">
 									<div class="pro_li">
-										<img src="/upload/201712/18/201712181401083100.jpg"/>
-									</div>
-									<p class="">三箱类<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=233">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181400103507.jpg"/>
-									</div>
-									<p class="">配电箱<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=232">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181359226550.jpg"/>
-									</div>
-									<p class="">低压配电箱<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=231">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181356524484.jpg"/>
-									</div>
-									<p class="">三箱类<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=230">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181355592164.jpg"/>
-									</div>
-									<p class="">JXF配电箱<i class="iconfont icon-news-left"></i></p>
-								</a>
-							</li>
-                               
-							<li>
-								<a href="products_show.html?id=229">
-									<div class="pro_li">
-										<img src="/upload/201712/18/201712181355110436.jpg"/>
+										<img src="upload/201712/18/201712181401083100.jpg"/>
 									</div>
 									<p class="">三箱类<i class="iconfont icon-news-left"></i></p>
 								</a>
@@ -403,9 +251,6 @@
                                
 						
 						</ul>
-                        -->
-						
-						
 
 							<!--4-->
 							<ul>
@@ -691,7 +536,7 @@
 	
 	<div class="footer_footer">
 		<div class="container">
-			<p>Copyright 2018 All Rights Reserved  版权所有 ：青岛华凌科技有限公司<a href="http://www.miitbeian.gov.cn" target="_blank">苏ICP备15002713号</a>  </p>
+			<p>Copyright 2018 All Rights Reserved  版权所有 ：青岛华凌科技有限公司<a href="http://www.miitbeian.gov.cn" target="_blank">鲁ICP备15031378号-1</a>  </p>
 			<div class="footer_zhichi">
 				<p><span>平台支持：</span><a href="http://www.vleader.cc"><i class="pt"></i></a></p>
 				<p><span>技术支持：</span><a href="http://www.wstx.com.cn"><i class="js"></i></a></p>
